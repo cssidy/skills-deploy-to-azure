@@ -6,8 +6,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: cssidy-azure-ttt
-  AZURE_WEBAPP_NAME: cssidy-ttt-app
+  DOCKER_IMAGE_NAME: cassidy-azure-ttt
+  AZURE_WEBAPP_NAME: cassidy-ttt-app
 
 jobs:
   build:
